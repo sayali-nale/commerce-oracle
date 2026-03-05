@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Commerce Oracle
 
-# Run and deploy your AI Studio app
+AI-Powered Price Intelligence for Smarter Online Shopping.
 
-This contains everything you need to run your app locally.
+## Overview
+Commerce Oracle helps users find the best deals online using AI-powered product search and price comparison.
 
-View your app in AI Studio: https://ai.studio/apps/5506b412-d78d-42e9-a0d9-6c50138821db
+## Features
+- Smart product search
+- AI-powered price intelligence
+- Best current deal detection
+- Direct buy recommendation
 
-## Run Locally
+## How It Works
+Users search for a product like "Samsung phone".  
+The AI analyzes available data and finds the best deal across platforms.
 
-**Prerequisites:**  Node.js
+## Built With
+- Google AI Studio
+- AI prompt engineering
+- Web interface
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Future Improvements
+- Price history tracking
+- Price drop alerts
+- Multi-platform comparison
